@@ -121,6 +121,37 @@ Understanding Figma’s design environment helps bridge the gap between designer
 
 ---
 
+## 👥 Project Roles and Responsibilities
+
+A successful full-stack project requires effective collaboration among multiple roles.  
+Each team member contributes unique skills that help ensure the project is delivered on time, meets user expectations, and maintains high technical quality.
+
+| **Role**                | **Responsibilities**                                                                                                                     |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **Project Manager**     | Oversees the project timeline, coordinates team activities, manages deliverables, and ensures the project stays within scope and budget. |
+| **Frontend Developers** | Implement UI components, ensure responsive design, optimize performance, and integrate with backend APIs.                                |
+| **Backend Developers**  | Build RESTful APIs, manage the database, handle server-side logic, and ensure data security and scalability.                             |
+| **Designers**           | Create mockups and prototypes in Figma, maintain the design system, and ensure high-quality user experience (UX) across all screens.     |
+| **QA/Testers**          | Write and execute test cases, perform manual and automated testing, and report bugs or usability issues to the team.                     |
+| **DevOps Engineers**    | Manage deployment pipelines (CI/CD), monitor server infrastructure, ensure reliability, and handle version control best practices.       |
+| **Product Owner**       | Define product requirements, prioritize features, represent stakeholder interests, and align development goals with business objectives. |
+| **Scrum Master**        | Facilitate Agile processes, remove blockers, organize daily stand-ups and sprint retrospectives, and ensure team efficiency.             |
+
+---
+
+### 🔍 Contribution to Project Success
+
+- **Project Managers** ensure smooth coordination and timely delivery.
+- **Frontend and Backend Developers** build the foundation and functionality of the application.
+- **Designers** shape the product’s look and feel to enhance user satisfaction.
+- **QA/Testers** uphold the project’s reliability and usability standards.
+- **DevOps Engineers** keep the system running efficiently post-deployment.
+- **Product Owners and Scrum Masters** drive clarity, vision, and team productivity.
+
+Together, these roles ensure a well-structured, user-friendly, and maintainable application that achieves the project’s overall goals.
+
+---
+
 ## 📄 License
 
 This project is for **educational purposes** only.
