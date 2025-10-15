@@ -10,7 +10,7 @@ The goal is to build a fully functional web application that allows users to bro
 - Develop a scalable and responsive web application
 - Implement both **frontend** and **backend** functionalities
 - Design an intuitive, Human centered design and user-friendly interface
-- Enable smooth property search and booking experiences
+- Enable smooth navigation, property search and booking experiences
 - Practice full-stack collaboration and deployment
 
 ---
