@@ -82,6 +82,45 @@ In summary, a strong focus on **user-friendly design** transforms a basic bookin
 
 ---
 
+### 🎨 Figma Design Specifications
+
+#### 🎨 Color Styles
+
+- **Primary:** `#FF5A5F`
+- **Secondary:** `#008489`
+- **Background:** `#FFFFFF`
+- **Text:** `#222222`
+- **Secondary Text:** `#717171`
+
+#### ✍️ Typography
+
+- **Primary Font:** Circular
+  - Weight: Medium (500)
+  - Size: 16px
+- **Headings:** Circular
+  - Weight: Bold (700)
+  - Size Range: 24px–32px
+- **Secondary Text:** Circular
+  - Weight: Book (400)
+  - Size: 14px
+
+---
+
+### 💡 Importance of Identifying Design Properties
+
+Recognizing and documenting design properties such as colors, typography, and spacing in a mockup design ensures **consistency**, **scalability**, and **clarity** throughout the development process.
+
+**Benefits include:**
+
+- Maintains **brand identity** across all screens.
+- Speeds up **developer handoff** and implementation.
+- Promotes **visual harmony** in UI components.
+- Ensures accessibility and readability across devices.
+
+Understanding Figma’s design environment helps bridge the gap between designers and developers, ensuring the final product accurately reflects the intended user experience.
+
+---
+
 ## 📄 License
 
 This project is for **educational purposes** only.
