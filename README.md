@@ -1,6 +1,6 @@
 # 🏠 Airbnb Full-Stack Clone
 
-This project is a **full-stack clone** of the popular accommodation booking platform **Airbnb**.  
+This project is a **full-stack clone** of the well Known accommodation booking platform **Airbnb**.  
 The goal is to build a fully functional web application that allows users to browse property listings, view detailed property information, and complete bookings.
 
 ---
@@ -9,7 +9,7 @@ The goal is to build a fully functional web application that allows users to bro
 
 - Develop a scalable and responsive web application
 - Implement both **frontend** and **backend** functionalities
-- Design an intuitive and user-friendly interface
+- Design an intuitive, Human centered design and user-friendly interface
 - Enable smooth property search and booking experiences
 - Practice full-stack collaboration and deployment
 
@@ -123,7 +123,7 @@ Understanding Figma’s design environment helps bridge the gap between designer
 
 ## 👥 Project Roles and Responsibilities
 
-A successful full-stack project requires effective collaboration among multiple roles.  
+A successful full-stack project requires effective collaboration and co-operation among multiple roles.  
 Each team member contributes unique skills that help ensure the project is delivered on time, meets user expectations, and maintains high technical quality.
 
 | **Role**                | **Responsibilities**                                                                                                                     |
