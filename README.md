@@ -15,18 +15,6 @@ The goal is to build a fully functional web application that allows users to bro
 
 ---
 
-## 🎓 Learning Objectives
-
-By completing this project, you will:
-
-- Learn to implement **responsive UI/UX designs**
-- Understand how to structure a **complex web application**
-- Practice **team collaboration** with defined roles
-- Develop skills in **component-based frontend architecture**
-- Apply **best practices** for web application development
-
----
-
 ## 🧩 Tech Stack
 
 **Frontend:**
@@ -43,24 +31,6 @@ By completing this project, you will:
 **Design Tools:**
 
 - Figma (for UI/UX design)
-
----
-
-## 🚀 Future Enhancements
-
-- User authentication and authorization
-- Real-time booking and notifications
-- Admin dashboard for property management
-- Integration with payment gateways
-
----
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a new branch (`feature/your-feature-name`)
-3. Commit your changes
-4. Push the branch and create a Pull Request
 
 ---
 
