@@ -152,6 +152,76 @@ Together, these roles ensure a well-structured, user-friendly, and maintainable 
 
 ---
 
+## 🧱 UI Component Patterns
+
+This section outlines the planned **UI components** for the Airbnb Full-Stack Clone project.  
+Each component will be designed with **reusability**, **consistency**, and **scalability** in mind to maintain a cohesive user experience throughout the application.
+
+---
+
+### 🌐 Navbar
+
+**Description:**  
+The navigation bar will serve as the primary access point for users to explore the site.
+
+**Key Elements:**
+
+- **Logo:** Represents the brand and links to the homepage.
+- **Search Bar:** Allows users to search for properties based on location or keywords.
+- **User Navigation:** Provides access to login, profile, and booking history.
+- **Responsive Menu:** Collapses into a mobile-friendly format for smaller screens.
+
+**Purpose:**  
+Ensures users can quickly access essential features from any page.
+
+---
+
+### 🏡 Property Card
+
+**Description:**  
+Displays key details about each property in a concise and visually appealing format.
+
+**Key Elements:**
+
+- **Property Image:** Showcases the main image of the property.
+- **Basic Details:** Displays information such as price, location, and rating.
+- **Favorite Button:** Allows users to save or like properties for future reference.
+- **Responsive Layout:** Adapts seamlessly across mobile, tablet, and desktop devices.
+
+**Purpose:**  
+Provides a reusable and modular design for displaying property listings consistently across pages.
+
+---
+
+### ⚓ Footer
+
+**Description:**  
+The footer provides supporting navigation and additional information at the bottom of the page.
+
+**Key Elements:**
+
+- **Site Links:** Quick links to important sections like About, Help, and Contact.
+- **Company Information:** Displays company description or mission statement.
+- **Social Media Links:** Connects users to the brand’s social platforms.
+- **Copyright Information:** Displays ownership and legal notices.
+
+**Purpose:**  
+Maintains visual balance, provides access to secondary information, and reinforces brand presence across all pages.
+
+---
+
+### 🧩 Component Design Principle
+
+Each component will be:
+
+- **Reusable:** Built as self-contained units for use across multiple pages.
+- **Consistent:** Follow a unified design language using defined color, spacing, and typography styles.
+- **Responsive:** Adjust layout and behavior for different screen sizes and devices.
+
+These components together form the building blocks of a **scalable and maintainable frontend architecture**.
+
+---
+
 ## 📄 License
 
 This project is for **educational purposes** only.
