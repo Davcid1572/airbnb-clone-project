@@ -34,6 +34,54 @@ The goal is to build a fully functional web application that allows users to bro
 
 ---
 
+## 🎨 UI/UX Design Planning
+
+### 🧭 Design Goals
+
+The goal of the UI/UX design is to create a seamless and enjoyable user experience throughout the booking process.
+
+**Key design goals include:**
+
+- 🧩 **Create intuitive booking flow** — ensure users can navigate easily from browsing to booking.
+- 🎨 **Maintain visual consistency** — consistent typography, colors, and layout patterns across all pages.
+- ⚡ **Ensure fast loading times** — optimize images, scripts, and assets for performance.
+- 📱 **Prioritize mobile responsiveness** — guarantee usability across all devices and screen sizes.
+
+---
+
+### 🔑 Key Features
+
+- **Property search and filtering** – users can quickly find suitable properties based on preferences.
+- **Detailed property viewing** – display property images, descriptions, amenities, and pricing.
+- **Secure checkout process** – safe and simple payment flow for completing bookings.
+- **User authentication** – sign-up, login, and personalized booking management.
+
+---
+
+### 📄 Primary Pages
+
+| **Page**                  | **Description**                                                                       |
+| ------------------------- | ------------------------------------------------------------------------------------- |
+| **Property Listing View** | Grid display of available properties with filters for location, price, and amenities. |
+| **Listing Detailed View** | Full property details including images, amenities, reviews, and a booking form.       |
+| **Simple Checkout View**  | Streamlined page for payment, confirmation, and booking summary.                      |
+
+---
+
+### 💡 Importance of User-Friendly Design
+
+A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves overall customer satisfaction.
+
+Key principles of user-centered design include:
+
+- **Clear navigation:** Users should instantly understand how to find listings and complete bookings.
+- **Intuitive interfaces:** Every interaction should feel natural and predictable.
+- **Responsive design:** Ensures accessibility and usability on all screen sizes.
+
+In summary, a strong focus on **user-friendly design** transforms a basic booking app into a trusted and delightful experience for travelers.
+
+---
+
 ## 📄 License
 
 This project is for **educational purposes** only.
